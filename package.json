@@ -1,0 +1,21 @@
+{
+  "name": "completenodejsdemo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashok",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "JSONStream": "^1.3.3",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "json-array-streams": "^1.0.1",
+    "lodash": "^4.17.10",
+    "nodemon": "^1.17.5",
+    "request": "^2.87.0",
+    "yargs": "^4.7.1"
+  }
+}
